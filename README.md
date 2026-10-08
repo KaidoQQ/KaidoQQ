@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Bohdan Razimovskyi 👋</h1>
+<h1 align="center">Hi there, I'm Bohdan 👋</h1>
 <h3 align="center">AI / ML Backend Engineer | Building Asynchronous Systems & Intelligent Microservices</h3>
 
 <p align="center">
