@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ru.pinterest.com/pin/988540186980270354/">
-    <img src="assets/aurora.gif" width="360" alt="Animated aurora" />
+    <img src="assets/aurora.gif" width="600" alt="Animated aurora" />
   </a>
 </p>
 <div align="center">
