@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://ru.pinterest.com/pin/988540186980270354/">
+    <img src="assets/aurora.gif" width="360" alt="Animated aurora" />
+  </a>
+</p>
 <div align="center">
 
 # Hi, I'm Bohdan 👋
@@ -55,8 +60,8 @@ I'm a backend and ML engineer focused on **asynchronous Python systems** and **A
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaidoQQ&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="Bohdan's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaidoQQ&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="Most used languages across Bohdan's GitHub repositories" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaidoQQ&theme=github_dark" alt="Bohdan's GitHub statistics" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaidoQQ&theme=github_dark" alt="Repository count by programming language" />
 
 </div>
 
